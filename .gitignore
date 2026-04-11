@@ -1,0 +1,13 @@
+bin/
+.settings/
+.metadata/
+.classpath
+.project
+
+*.class
+.DS_Store
+Thumbs.db
+.recommenders/
+
+!src/
+!README.md
