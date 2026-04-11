@@ -28,7 +28,7 @@ CODING-TEST-PREPARATION-JAVA/
         ├── LeeOO/              # 다른 부원 폴더
         │   └── Lv1_12947_HarshadNumber.java
         └── ParkOO/
-            └── 12947_Lv1_HarshadNumber.py
+            └── Lv1_12947_HarshadNumber.java
 
 ```
 
